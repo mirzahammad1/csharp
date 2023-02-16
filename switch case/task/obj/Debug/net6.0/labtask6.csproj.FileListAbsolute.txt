@@ -1,0 +1,15 @@
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\bin\Debug\net6.0\labtask6.exe
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\bin\Debug\net6.0\labtask6.deps.json
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\bin\Debug\net6.0\labtask6.runtimeconfig.json
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\bin\Debug\net6.0\labtask6.dll
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\bin\Debug\net6.0\labtask6.pdb
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\obj\Debug\net6.0\labtask6.csproj.AssemblyReference.cache
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\obj\Debug\net6.0\labtask6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\obj\Debug\net6.0\labtask6.AssemblyInfoInputs.cache
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\obj\Debug\net6.0\labtask6.AssemblyInfo.cs
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\obj\Debug\net6.0\labtask6.csproj.CoreCompileInputs.cache
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\obj\Debug\net6.0\labtask6.dll
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\obj\Debug\net6.0\refint\labtask6.dll
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\obj\Debug\net6.0\labtask6.pdb
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\obj\Debug\net6.0\labtask6.genruntimeconfig.cache
+C:\Users\mirza\OneDrive\Desktop\PF\labtask6\obj\Debug\net6.0\ref\labtask6.dll

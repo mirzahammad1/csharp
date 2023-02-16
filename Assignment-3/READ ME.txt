@@ -1,0 +1,41 @@
+ASSIGNMENT - 3 QUESTIONS
+
+Question 1:
+Write a program that asks user the size of array and initialize an array of that size. Then store
+string data in that array given from user. Your task is to iterate the array and finds the repeated
+letters and their count.
+Sample Input:
+Enter size of array: 3
+Enter element 1: Hello World Enter
+Element 2: Data Enter
+Element 3: Values
+
+Sample Output:
+H	1
+e	2
+l	4
+o	2
+W	1
+r	1
+d	1
+D	1
+a	3
+t	1
+V	1
+u	1
+s	1
+
+Question 2:
+Write a program to merge two arrays of same size sorted in descending order.
+Sample Input:
+1. Input the number of elements to be stored in the first array: 3 Input 3 elements
+in the array:
+ Element - 0: 1
+ Element - 1: 2
+ Element - 2: 3
+2. Input the number of elements to be stored in the second array: 3 Input 3
+elements in the array:
+ Element - 0: 1
+ Element - 1: 2
+ Element - 2: 3
+Sample Output: 3 3 2 2 1 1

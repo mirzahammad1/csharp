@@ -1,0 +1,5 @@
+TEXT filing are use to same data in a file for saving it
+permanently in a form of file it can be in notepad,wordpad,
+excel etc.
+saved text file can b found in  Debug folder of bin folder.
+ 

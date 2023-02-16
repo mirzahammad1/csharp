@@ -1,0 +1,15 @@
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\bin\Debug\net6.0\lab 5.exe
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\bin\Debug\net6.0\lab 5.deps.json
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\bin\Debug\net6.0\lab 5.runtimeconfig.json
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\bin\Debug\net6.0\lab 5.dll
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\bin\Debug\net6.0\lab 5.pdb
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\obj\Debug\net6.0\lab 5.csproj.AssemblyReference.cache
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\obj\Debug\net6.0\lab 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\obj\Debug\net6.0\lab 5.AssemblyInfoInputs.cache
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\obj\Debug\net6.0\lab 5.AssemblyInfo.cs
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\obj\Debug\net6.0\lab 5.csproj.CoreCompileInputs.cache
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\obj\Debug\net6.0\lab 5.dll
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\obj\Debug\net6.0\refint\lab 5.dll
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\obj\Debug\net6.0\lab 5.pdb
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\obj\Debug\net6.0\lab 5.genruntimeconfig.cache
+C:\Users\mirza\OneDrive\Desktop\PF\lab 5\obj\Debug\net6.0\ref\lab 5.dll

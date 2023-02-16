@@ -1,0 +1,15 @@
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\bin\Debug\net6.0\LAB-ASSIGNMENT-1.exe
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\bin\Debug\net6.0\LAB-ASSIGNMENT-1.deps.json
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\bin\Debug\net6.0\LAB-ASSIGNMENT-1.runtimeconfig.json
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\bin\Debug\net6.0\LAB-ASSIGNMENT-1.dll
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\bin\Debug\net6.0\LAB-ASSIGNMENT-1.pdb
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\obj\Debug\net6.0\LAB-ASSIGNMENT-1.csproj.AssemblyReference.cache
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\obj\Debug\net6.0\LAB-ASSIGNMENT-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\obj\Debug\net6.0\LAB-ASSIGNMENT-1.AssemblyInfoInputs.cache
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\obj\Debug\net6.0\LAB-ASSIGNMENT-1.AssemblyInfo.cs
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\obj\Debug\net6.0\LAB-ASSIGNMENT-1.csproj.CoreCompileInputs.cache
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\obj\Debug\net6.0\LAB-ASSIGNMENT-1.dll
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\obj\Debug\net6.0\refint\LAB-ASSIGNMENT-1.dll
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\obj\Debug\net6.0\LAB-ASSIGNMENT-1.pdb
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\obj\Debug\net6.0\LAB-ASSIGNMENT-1.genruntimeconfig.cache
+C:\Users\mirza\OneDrive\Desktop\PF\LAB-ASSIGNMENT-1\obj\Debug\net6.0\ref\LAB-ASSIGNMENT-1.dll

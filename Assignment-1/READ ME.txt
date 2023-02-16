@@ -1,0 +1,24 @@
+ASSIGNMENT - 1 QUESTIONS:
+
+1. Create a console application for your educational details and show output 
+[use minimum 3 data types]. Show your results with concatenated form.
+
+2. Formulate any 3 mathematical equations using double /float data type:
+For example: equation can be like this (a+b) * (a-b) = Result
+
+3. Write a program that takes four numbers(value_1 , value_2, value_3, value_4) 
+as input and print the output of
+ (value_1 + value_2). Value_3 / value_4
+ value_1. value_2 + value_2.value_3.
+ Value_4/ value_1. value_2. value_3
+
+4. Write a program to print the result of the specified operations.
+
+ -1 + 4 * 6
+ ( 35+ 5 ) % 7
+ 14 + -4 * 6 / 11
+ 2 + 15 / 6 * 1 - 7 % 2
+ 3+3- [5*6]/100
+
+Use appropriate data types to get correct outputs and print all 5 
+outputs in one writeline command in a tabular form on console.

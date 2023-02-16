@@ -1,0 +1,15 @@
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\bin\Debug\net6.0\LAB13.exe
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\bin\Debug\net6.0\LAB13.deps.json
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\bin\Debug\net6.0\LAB13.runtimeconfig.json
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\bin\Debug\net6.0\LAB13.dll
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\bin\Debug\net6.0\LAB13.pdb
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\obj\Debug\net6.0\LAB13.csproj.AssemblyReference.cache
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\obj\Debug\net6.0\LAB13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\obj\Debug\net6.0\LAB13.AssemblyInfoInputs.cache
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\obj\Debug\net6.0\LAB13.AssemblyInfo.cs
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\obj\Debug\net6.0\LAB13.csproj.CoreCompileInputs.cache
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\obj\Debug\net6.0\LAB13.dll
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\obj\Debug\net6.0\refint\LAB13.dll
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\obj\Debug\net6.0\LAB13.pdb
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\obj\Debug\net6.0\LAB13.genruntimeconfig.cache
+C:\Users\mirza\OneDrive\Desktop\PF\LAB13\obj\Debug\net6.0\ref\LAB13.dll

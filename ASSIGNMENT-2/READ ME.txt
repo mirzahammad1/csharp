@@ -1,0 +1,18 @@
+ASSIGNMENT - 2 QUESTIONS
+
+Question 1:
+Write a program that asks the user for a number n and prints the sum of the numbers from 1
+to n.
+
+Question 2:
+Write a program that takes a character from user as input and check whether it is an alphabet
+(alphabet could be capital and small) or not. If it is an alphabet, then check it is vowel or
+consonant. If it is number or any special character, then print invalid input.
+
+Question 3:
+In a XYZ company, worker’s punctuality is determined on the basis of the absents in a month.
+● If the worker has 0 absents, then the worker is said to be highly punctual.
+● If the worker has 1 absents, then the worker is said to be moderately punctual.
+● If the worker has 2 absents, then the worker is on warning period.
+● If the worker has 3 absents, then the worker must leave the company.
+Number of absents of a worker will be user input then find the punctuality of the worker.

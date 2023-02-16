@@ -1,0 +1,15 @@
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\bin\Debug\net6.0\labtask7B.exe
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\bin\Debug\net6.0\labtask7B.deps.json
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\bin\Debug\net6.0\labtask7B.runtimeconfig.json
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\bin\Debug\net6.0\labtask7B.dll
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\bin\Debug\net6.0\labtask7B.pdb
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\obj\Debug\net6.0\labtask7B.csproj.AssemblyReference.cache
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\obj\Debug\net6.0\labtask7B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\obj\Debug\net6.0\labtask7B.AssemblyInfoInputs.cache
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\obj\Debug\net6.0\labtask7B.AssemblyInfo.cs
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\obj\Debug\net6.0\labtask7B.csproj.CoreCompileInputs.cache
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\obj\Debug\net6.0\labtask7B.dll
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\obj\Debug\net6.0\refint\labtask7B.dll
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\obj\Debug\net6.0\labtask7B.pdb
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\obj\Debug\net6.0\labtask7B.genruntimeconfig.cache
+C:\Users\mirza\OneDrive\Desktop\PF\labtask7B\obj\Debug\net6.0\ref\labtask7B.dll

@@ -1,0 +1,31 @@
+Books Details
+ACADEMIC BOOKS
+c# Head First 
+Author : Andrew Stellman 
+Edition : 3rd
+Computer Science An Overview 
+Author : Glenn Brookshear 
+Edition : 12th
+Significance of Islam 
+Author : George B.Thomas 
+Edition : 9th
+NOVELS
+Fire & Blood 
+Author : George R.R.Martin 
+Genre : Fantasy
+The Lady of the Lake 
+Author : Andrzej Sapkowski 
+Genre : Fantasy
+Harry Potter 
+Author : J.K Rowling 
+Genre : Fantasy
+HISTORY BOOKS
+The Idea of the Muslim World:A global Intellectual History 
+Author : Cemil Aydin 
+Published:2017
+Arabs 
+Author : Tim Mackintosh-Smith 
+Published : 2019
+The Court of the Caliphs 
+Author : Hugh N.Kennedy 
+Published : 2004
